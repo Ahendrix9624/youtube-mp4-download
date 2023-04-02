@@ -54,5 +54,3 @@ Command+shift+p select interpreter and chose .venv/bin python
 Docs about backup
  - Pydub https://pypi.org/project/pydub/
  - Pytube https://pytube.io/en/latest/
-
-https://www.youtube.com/watch?v=l_EIE5f2t6M
